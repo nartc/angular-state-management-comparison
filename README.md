@@ -14,7 +14,11 @@ Run `npm run build:stats` to let source-map-explorer calculate the bundle size.
 
 [combined] (381.49 KB)
 
-### [Akita](https://datorama.github.io/akita/) (7.1.1)
+### [Akita 6](https://datorama.github.io/akita/) (6.2.4)
+
+[combined] (385.72 KB)
+
+### [Akita 7](https://datorama.github.io/akita/) (7.1.1)
 
 [combined] (390.25 KB)
 
